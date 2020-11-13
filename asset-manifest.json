@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/MERN-Projects/mern_color_picker/color_picker/static/css/main.4c39cf19.chunk.css",
-    "main.js": "/MERN-Projects/mern_color_picker/color_picker/static/js/main.2f0625d9.chunk.js",
-    "main.js.map": "/MERN-Projects/mern_color_picker/color_picker/static/js/main.2f0625d9.chunk.js.map",
-    "runtime-main.js": "/MERN-Projects/mern_color_picker/color_picker/static/js/runtime-main.540142c6.js",
-    "runtime-main.js.map": "/MERN-Projects/mern_color_picker/color_picker/static/js/runtime-main.540142c6.js.map",
-    "static/js/2.342a9880.chunk.js": "/MERN-Projects/mern_color_picker/color_picker/static/js/2.342a9880.chunk.js",
-    "static/js/2.342a9880.chunk.js.map": "/MERN-Projects/mern_color_picker/color_picker/static/js/2.342a9880.chunk.js.map",
-    "static/js/3.766a46f8.chunk.js": "/MERN-Projects/mern_color_picker/color_picker/static/js/3.766a46f8.chunk.js",
-    "static/js/3.766a46f8.chunk.js.map": "/MERN-Projects/mern_color_picker/color_picker/static/js/3.766a46f8.chunk.js.map",
-    "index.html": "/MERN-Projects/mern_color_picker/color_picker/index.html",
-    "static/css/main.4c39cf19.chunk.css.map": "/MERN-Projects/mern_color_picker/color_picker/static/css/main.4c39cf19.chunk.css.map",
-    "static/js/2.342a9880.chunk.js.LICENSE.txt": "/MERN-Projects/mern_color_picker/color_picker/static/js/2.342a9880.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/MERN-Projects/mern_color_picker/color_picker/static/media/logo.103b5fa1.svg"
+    "main.css": "/MERN-Projects/static/css/main.4c39cf19.chunk.css",
+    "main.js": "/MERN-Projects/static/js/main.2f0625d9.chunk.js",
+    "main.js.map": "/MERN-Projects/static/js/main.2f0625d9.chunk.js.map",
+    "runtime-main.js": "/MERN-Projects/static/js/runtime-main.132afba7.js",
+    "runtime-main.js.map": "/MERN-Projects/static/js/runtime-main.132afba7.js.map",
+    "static/js/2.342a9880.chunk.js": "/MERN-Projects/static/js/2.342a9880.chunk.js",
+    "static/js/2.342a9880.chunk.js.map": "/MERN-Projects/static/js/2.342a9880.chunk.js.map",
+    "static/js/3.766a46f8.chunk.js": "/MERN-Projects/static/js/3.766a46f8.chunk.js",
+    "static/js/3.766a46f8.chunk.js.map": "/MERN-Projects/static/js/3.766a46f8.chunk.js.map",
+    "index.html": "/MERN-Projects/index.html",
+    "static/css/main.4c39cf19.chunk.css.map": "/MERN-Projects/static/css/main.4c39cf19.chunk.css.map",
+    "static/js/2.342a9880.chunk.js.LICENSE.txt": "/MERN-Projects/static/js/2.342a9880.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/MERN-Projects/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.540142c6.js",
+    "static/js/runtime-main.132afba7.js",
     "static/js/2.342a9880.chunk.js",
     "static/css/main.4c39cf19.chunk.css",
     "static/js/main.2f0625d9.chunk.js"
